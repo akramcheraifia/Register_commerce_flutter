@@ -1,5 +1,5 @@
 
-The code you provided is the main.dart file of a Flutter application. It imports necessary packages and defines the main entry point of the application.
+
 
 The main function is an asynchronous function that initializes Firebase and runs the Flutter application. It ensures that the Flutter binding is initialized and then calls Firebase.initializeApp() with the options provided in the firebase_options.dart file.
 
